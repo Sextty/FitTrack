@@ -10,6 +10,7 @@ see how your time splits across activities — with charts powered by Recharts.
 ## Features
 
 - 🔥 **Day streak** (consecutive days with a workout)
+- 🎯 **Weekly goal** with an animated progress ring (editable target) + personal records (longest workout, best week)
 - 📊 Weekly training-volume area chart (last 8 weeks)
 - 🥧 Activity breakdown donut (minutes by type)
 - ➕ Log workouts (type, duration, date) — calories auto-estimated
