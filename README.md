@@ -5,6 +5,8 @@ see how your time splits across activities — with charts powered by Recharts.
 
 ![stack](https://img.shields.io/badge/stack-React%20·%20Recharts%20·%20Express%20·%20MongoDB-22c55e)
 
+**▶ [Try the live demo](https://portfoliowassim.vercel.app/demo/fittrack)** — runs right in your browser, no setup.
+
 ## Features
 
 - 🔥 **Day streak** (consecutive days with a workout)
